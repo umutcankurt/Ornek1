@@ -144,3 +144,13 @@ margin: 20px 0px 1px 20px;
 .blog-coverimage {
     text-align: center;
 }
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    padding: 15px;
+    margin: 35px;
+    border-radius: 5px;
+    background-color: beige;
+    /* transition ve box shadow kısımlarını içeriği bir kart içinde göstermek için yaptığım google araştırmalarında buldum. Ekledikten sonra hoşuma gitti.  /*
+}
